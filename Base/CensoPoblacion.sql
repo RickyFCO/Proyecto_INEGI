@@ -2,7 +2,7 @@ CREATE DATABASE  IF NOT EXISTS `censopoblacion` /*!40100 DEFAULT CHARACTER SET u
 USE `censopoblacion`;
 -- MySQL dump 10.13  Distrib 8.0.40, for Win64 (x86_64)
 --
--- Host: 127.0.0.1    Database: censopoblacion
+-- Host: localhost     Database: censopoblacion
 -- ------------------------------------------------------
 -- Server version	8.0.40
 
@@ -184,4 +184,3 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-12-05  0:46:19
