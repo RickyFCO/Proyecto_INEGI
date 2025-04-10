@@ -1,6 +1,6 @@
 # Proyecto de Censo de Población - INEGI
 
-Este es un proyecto de aplicación de escritorio en Java desarrollado para gestionar información de censos de población, basado en el patrón de diseño Modelo-Vista-Controlador (MVC) y utilizando conexión a una base de datos MySQL. La aplicación permite registrar, consultar, actualizar y eliminar información relacionada con viviendas, habitantes y actividades económicas.
+Este es un proyecto de aplicación de escritorio en Java desarrollado para gestionar información de censos de población, basado en el patrón de diseño Modelo-Vista-Controlador (MVC) y utilizando conexión a una base de datos MariaDB(MySQL). La aplicación permite registrar, consultar, actualizar y eliminar información relacionada con viviendas, habitantes y actividades económicas.
 
 ## Características
 
