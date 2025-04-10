@@ -9,7 +9,7 @@ Este es un proyecto de aplicación de escritorio en Java desarrollado para gesti
 - **Patrones de Diseño**: Implementación de los patrones Singleton (gestión de conexión a la base de datos) y DAO (acceso a datos).
 - **Login de Usuario**: Interfaz de inicio de sesión con control de acceso.
 - **Dashboard Ejecutivo**: Gráficos y resúmenes estadísticos sobre viviendas y población.
-- **Conexión a MySQL**: Base de datos relacional para almacenar y consultar la información censal.
+- **Conexión a MariaDB(MySQL)**: Base de datos relacional para almacenar y consultar la información censal.
 
 ## Estructura del Proyecto
 
